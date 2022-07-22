@@ -28,3 +28,8 @@
   border-top-right-radius: 10px;
   object-fit: cover;
 }
+.sidebar_stats {
+  margin-top: 10px;
+  display: flex;
+  justify-content: space-between;
+}
